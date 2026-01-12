@@ -1,0 +1,7 @@
+{
+  "name": "AI Virtual Stylist",
+  "description": "A high-end virtual fitting room that uses your camera and Gemini's image editing capabilities to instantly 'try on' different outfits.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
